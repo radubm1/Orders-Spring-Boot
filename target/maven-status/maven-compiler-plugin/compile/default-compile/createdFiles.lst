@@ -1,0 +1,5 @@
+com\example\orders\controller\OrderController.class
+com\example\orders\domain\Customer.class
+com\example\orders\OrdersApplication.class
+com\example\orders\domain\OrderItem.class
+com\example\orders\domain\Order.class
